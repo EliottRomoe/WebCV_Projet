@@ -22,7 +22,7 @@ function Api() {
 
     return (
         <div>
-            <h1 className="ApiTitre">./Api!</h1>
+            <h1 className="ApiTitre">./Aopi!</h1>
             {data.map((item, index) => {
                 if(index < 50){
                     return (
